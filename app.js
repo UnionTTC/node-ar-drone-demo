@@ -1,4 +1,4 @@
-//var drone = require('ar-drone');
+var drone = require('ar-drone');
 var express = require('express');
 var hbs = require('hbs');
 var hbsutils = require('hbs-utils')(hbs);
